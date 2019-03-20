@@ -1,10 +1,8 @@
-# This project has been archived
+# This project is an unofficial fork of the original SuperCharacterController with additional features.
 
-This project is no longer being maintained. If you are searching for a robust Character Controller for Unity, I'd recommend the [Kinematic Character Controller](https://assetstore.unity.com/packages/tools/physics/kinematic-character-controller-99131) by Philippe St-Amand. [Video](https://www.youtube.com/watch?v=jL2VrEuCaQ0).
+Falcon Free Character Controller is based on Super Character Controller tech and works on adding animation support to it and additional parkour functionality.
 
-Always feel free to message me about Character Controllers in Unity, or anything in else particular.
-
-# SuperCharacterController
+# SuperCharacterController - The original system
 
 Custom Character Controller for Unity. Fulfills all common character controller functions such as collision detection and pushback, slope limiting and collider ignoring. New features include the ability to rotate the controller to any angle, ground detection, ability to clamp the character to surfaces, and detailed collision response messages. All functions are fully exposed and editable. Also includes the SuperStateMachine, a finite state machine designed to interact with the controller.
 
